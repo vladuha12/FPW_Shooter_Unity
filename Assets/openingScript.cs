@@ -3,8 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class openingScript : MonoBehaviour
-{
-
+{ 
     public Vector3 endPos;
     public float speed = 1.0f;
 
